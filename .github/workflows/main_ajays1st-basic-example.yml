@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ajays1st-basic-example'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E444C1103544E5EA92826999146DF02 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CAF785DC8314B209D679FBE6C8B279D }}
           package: .
